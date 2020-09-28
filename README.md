@@ -1,8 +1,8 @@
 ## Calculator GUI
-*****
+-----------------
 A simple project I made in a few days. It functions like a basic calculator, but it doesn't have "Scientific Mode" or
-any complicated code. I will try to add modes like that if requested or just for fun. I will also try to make a version
-where you can run the GUI easily (like a command line command).
+any complicated buttons. I will try to add modes like that if requested or just for fun. I will also try to make a
+version where you can run the GUI easily (like a command line command).
 -------------------------------------
 If you look at the code, there will be some comments saying:
 ```python
