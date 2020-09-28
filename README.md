@@ -21,3 +21,4 @@ report the glitches as I might not know that that glitch exists.
 This calculator is still in development, so there may be many glitches or some buttons that don't work properly. In this
 case, please make an issue and I will try to fix the big/glitch as fast as I can. Along the way, I might make some
 changes to the calculator's looks, but for now it will be blocky and somewhat messy.
+****
