@@ -148,4 +148,3 @@ window.close()
 # safely close the window and prevent errors
 quit()
 # make sure that the program closes
-#
